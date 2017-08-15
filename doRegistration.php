@@ -75,8 +75,8 @@ header('Location:Registration.php');
 }
 else{
 session_destroy();
-$receiver1="123@gmail.com"; //receiver email address
-$receiver2="345@gmail.com"; //receiver email address
+$receiver1="123@gmail.com"; //receiver email address 1
+$receiver2="345@gmail.com"; //receiver email address 2
 $mail = new PHPMailer;
 $mail->SMTPDebug = 2;                               // Enable verbose debug output
 $mail->IsSMTP();
