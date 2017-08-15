@@ -75,8 +75,8 @@ header('Location:Registration.php');
 }
 else{
 session_destroy();
-$receiver1="daniel.wesley@golocalinteractive.com";
-$receiver2="jbenson@golocalinteractive.com";
+$receiver1="123@gmail.com"; //receiver email address
+$receiver2="345@gmail.com"; //receiver email address
 $mail = new PHPMailer;
 $mail->SMTPDebug = 2;                               // Enable verbose debug output
 $mail->IsSMTP();
