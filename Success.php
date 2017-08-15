@@ -32,7 +32,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="Registration.php">GLI</a>
+          <a class="navbar-brand" href="Registration.php">SM</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -50,7 +50,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p class="text-muted">© Copyright GLI Inc, 2017</p>
+        <p class="text-muted">© Copyright Sriram Manchiraju, 2017</p>
       </div>
     </footer>
     <!-- Bootstrap core JavaScript
